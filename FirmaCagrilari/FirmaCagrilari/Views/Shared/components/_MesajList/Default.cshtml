@@ -1,0 +1,45 @@
+﻿@using FirmaCagrilari.Models
+
+@model List<TblMesajlar>
+@{
+    IsTakipDbContext context = new IsTakipDbContext();
+    var gonderenName = "";
+    var Image = "";
+
+}
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        <i class="fa fa-comment-o"></i><span class="badge blue">@ViewBag.msgCount</span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+            <div class="notification_header">
+                <h3>@ViewBag.msgCount Yeni Mesajınız Var</h3>
+            </div>
+        </li>
+        @foreach (var x in Model)
+        {
+            {
+               gonderenName = context.TblFirmalars.Where(m => m.Id == x.Gonderen).Select(z => z.Name).FirstOrDefault();
+                Image = context.TblFirmalars.Where(m => m.Id == x.Gonderen).Select(z => z.Gorsel).FirstOrDefault();
+            }
+            <li>
+                <a href="#" class="grid">
+                    <div class="user_img">
+                        <img src="@Image" alt="">
+                    </div>
+                    <div class="notification_desc">
+                        <p> @gonderenName </p>                                                       
+                        <span>@x.Konu</span>
+                    </div>
+                </a>
+            </li>
+        }
+
+        <li>
+            <div class="notification_bottom">
+                <a href="/Home/PasifCagrilar/" class="bg-primary">Tüm Mesajları Gör</a>
+            </div>
+        </li>
+    </ul>
+</li>

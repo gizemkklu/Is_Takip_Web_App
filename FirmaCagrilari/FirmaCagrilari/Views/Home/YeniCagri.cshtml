@@ -1,0 +1,18 @@
+﻿@model FirmaCagrilari.Models.TblCagrilar
+@{
+    ViewData["Title"] = "YeniCagri";
+    Layout = "~/Views/Shared/_FirmaLayout.cshtml";
+}
+
+<h1>Yeni Çağrı Ekleme Sayfası</h1>
+
+<br />
+<form method="post">
+    @Html.Label("Konu")
+    @Html.TextBoxFor(x=>x.Konu, new {@class= "form-control"})
+    <br />
+    @Html.Label("Açıklama")
+    @Html.TextAreaFor(x=>x.Aciklama,10,4, new {@class= "form-control"})
+    <br />
+    <button class="btn btn-primary">Çağrı Oluştur</button>
+</form>

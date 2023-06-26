@@ -1,0 +1,43 @@
+﻿@model List<TblCagriDetay>
+@{
+    ViewData["Title"] = "CagriDetay";
+    Layout = "~/Views/Shared/_FirmaLayout.cshtml";
+}
+
+<h1>Çağrı Detayları</h1>
+<br />
+
+    @if (Model.Count > 0)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Açıklama</th>
+                    <th>Tarih</th>
+                    <th>Saat</th>
+    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Aciklama</td>
+                        <td>@item.Tarih</td>
+                        <td>@item.Saat</td>
+                    </tr>
+                }
+            </tbody>
+    </table>
+    }
+    else
+    {
+        <div class="alert alert-warning" role="alert">
+            Mevcut çağrı bulunmamaktadır
+        </div>
+    }
+
+
+

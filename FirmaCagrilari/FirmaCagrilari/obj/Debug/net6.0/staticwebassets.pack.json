@@ -1,0 +1,1521 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FirmaCagrilari.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FirmaCagrilari.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\.DS_Store",
+      "PackagePath": "staticwebassets\\login-form-08\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\login-form-08\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login-form-08\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\login-form-08\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\login-form-08\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\login-form-08\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\login-form-08\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\css\\style.css",
+      "PackagePath": "staticwebassets\\login-form-08\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\login-form-08\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\login-form-08\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\login-form-08\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\images\\undraw_file_sync_ot38.svg",
+      "PackagePath": "staticwebassets\\login-form-08\\images\\undraw_file_sync_ot38.svg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\index.html",
+      "PackagePath": "staticwebassets\\login-form-08\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login-form-08\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\login-form-08\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\js\\main.js",
+      "PackagePath": "staticwebassets\\login-form-08\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\login-form-08\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\login-form-08\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\main.html",
+      "PackagePath": "staticwebassets\\login-form-08\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\login-form-08\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\login-form-08\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\Preloader_11.gif",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\Preloader_11.gif"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\avatar5.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\avatar5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\avatar6.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\avatar6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\avatar7.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\avatar7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\cart.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\cart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\content.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\content.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\dashboard.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\dashboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\desk.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\desk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\people1.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\people1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\people2.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\people2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\people3.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\people3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\people4.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\people4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\profileimg-big.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\profileimg-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\profileimg.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\profileimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\team.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\template1.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\template1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\images\\template2.jpg",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\images\\template2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\bar.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\bar.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\linechart.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\linechart.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\assets\\js\\utils.js",
+      "PackagePath": "staticwebassets\\web2\\starter\\assets\\js\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\blocks.html",
+      "PackagePath": "staticwebassets\\web2\\starter\\blocks.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\cards.html",
+      "PackagePath": "staticwebassets\\web2\\starter\\cards.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\carousels.html",
+      "PackagePath": "staticwebassets\\web2\\starter\\carousels.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\forms.html",
+      "PackagePath": "staticwebassets\\web2\\starter\\forms.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\index.html",
+      "PackagePath": "staticwebassets\\web2\\starter\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\people.html",
+      "PackagePath": "staticwebassets\\web2\\starter\\people.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\pricing.html",
+      "PackagePath": "staticwebassets\\web2\\starter\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web2\\starter\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\web2\\starter\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\bags.html",
+      "PackagePath": "staticwebassets\\web\\bags.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\calender.html",
+      "PackagePath": "staticwebassets\\web\\calender.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\catalog.html",
+      "PackagePath": "staticwebassets\\web\\catalog.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\checkout.html",
+      "PackagePath": "staticwebassets\\web\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\contact.html",
+      "PackagePath": "staticwebassets\\web\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\atlas.css",
+      "PackagePath": "staticwebassets\\web\\css\\atlas.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\clndr.css",
+      "PackagePath": "staticwebassets\\web\\css\\clndr.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\fabochart.css",
+      "PackagePath": "staticwebassets\\web\\css\\fabochart.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\web\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\graph.css",
+      "PackagePath": "staticwebassets\\web\\css\\graph.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\web\\css\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\web\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\details.html",
+      "PackagePath": "staticwebassets\\web\\details.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\faq.html",
+      "PackagePath": "staticwebassets\\web\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\web\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\b9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\bag.png",
+      "PackagePath": "staticwebassets\\web\\images\\bag.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\web\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\closew.gif",
+      "PackagePath": "staticwebassets\\web\\images\\closew.gif"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\cross.png",
+      "PackagePath": "staticwebassets\\web\\images\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\d1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\d2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\d3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\d4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\grid.png",
+      "PackagePath": "staticwebassets\\web\\images\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\icon_sprite.png",
+      "PackagePath": "staticwebassets\\web\\images\\icon_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\icons.png",
+      "PackagePath": "staticwebassets\\web\\images\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\web\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\leftw.gif",
+      "PackagePath": "staticwebassets\\web\\images\\leftw.gif"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\logo.png",
+      "PackagePath": "staticwebassets\\web\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\na.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\na.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\na1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\na1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\na2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\na2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\phon.png",
+      "PackagePath": "staticwebassets\\web\\images\\phon.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\right_arrow.png",
+      "PackagePath": "staticwebassets\\web\\images\\right_arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\rightw.gif",
+      "PackagePath": "staticwebassets\\web\\images\\rightw.gif"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\s9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\search.png",
+      "PackagePath": "staticwebassets\\web\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\sh1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\sh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\sh2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\sh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\sh3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\sh3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\sh4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\sh4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\sh5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\sh5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\sh6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\sh6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\slider_handle.png",
+      "PackagePath": "staticwebassets\\web\\images\\slider_handle.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\tick.png",
+      "PackagePath": "staticwebassets\\web\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\tick1.png",
+      "PackagePath": "staticwebassets\\web\\images\\tick1.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\tw.png",
+      "PackagePath": "staticwebassets\\web\\images\\tw.png"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w10.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w12.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\w9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\w9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\wh2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\wh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\wh3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\wh3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\wh4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\wh4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\wh5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\wh5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\images\\wh6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\wh6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\input.html",
+      "PackagePath": "staticwebassets\\web\\input.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\web\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\web\\js\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\cbpFWTabs.js",
+      "PackagePath": "staticwebassets\\web\\js\\cbpFWTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\clndr.js",
+      "PackagePath": "staticwebassets\\web\\js\\clndr.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\web\\js\\imagezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\jquery.fn.gantt.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.fn.gantt.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\light.js",
+      "PackagePath": "staticwebassets\\web\\js\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\menu_jquery.js",
+      "PackagePath": "staticwebassets\\web\\js\\menu_jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\moment-2.2.1.js",
+      "PackagePath": "staticwebassets\\web\\js\\moment-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\web\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\pie-chart.js",
+      "PackagePath": "staticwebassets\\web\\js\\pie-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\web\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\serial.js",
+      "PackagePath": "staticwebassets\\web\\js\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\simpleCart.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\simpleCart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\site.js",
+      "PackagePath": "staticwebassets\\web\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\js\\underscore-min.js",
+      "PackagePath": "staticwebassets\\web\\js\\underscore-min.js"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\maps\\africa.json",
+      "PackagePath": "staticwebassets\\web\\maps\\africa.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\maps\\america.json",
+      "PackagePath": "staticwebassets\\web\\maps\\america.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\maps\\asia.json",
+      "PackagePath": "staticwebassets\\web\\maps\\asia.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\maps\\europe.json",
+      "PackagePath": "staticwebassets\\web\\maps\\europe.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\maps\\mideast.json",
+      "PackagePath": "staticwebassets\\web\\maps\\mideast.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\maps\\risk.json",
+      "PackagePath": "staticwebassets\\web\\maps\\risk.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\maps\\usofa.json",
+      "PackagePath": "staticwebassets\\web\\maps\\usofa.json"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\products.html",
+      "PackagePath": "staticwebassets\\web\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\register.html",
+      "PackagePath": "staticwebassets\\web\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\shoes.html",
+      "PackagePath": "staticwebassets\\web\\shoes.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\sunglasses.html",
+      "PackagePath": "staticwebassets\\web\\sunglasses.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\sweater.html",
+      "PackagePath": "staticwebassets\\web\\sweater.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\tabs.html",
+      "PackagePath": "staticwebassets\\web\\tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\validation.html",
+      "PackagePath": "staticwebassets\\web\\validation.html"
+    },
+    {
+      "Id": "C:\\Users\\gizem\\source\\repos\\FirmaCagrilari\\FirmaCagrilari\\wwwroot\\web\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FirmaCagrilari.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FirmaCagrilari.props",
+      "PackagePath": "build\\FirmaCagrilari.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FirmaCagrilari.props",
+      "PackagePath": "buildMultiTargeting\\FirmaCagrilari.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FirmaCagrilari.props",
+      "PackagePath": "buildTransitive\\FirmaCagrilari.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

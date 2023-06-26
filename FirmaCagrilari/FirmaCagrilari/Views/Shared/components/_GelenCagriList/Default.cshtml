@@ -1,0 +1,31 @@
+﻿@using FirmaCagrilari.Models
+@model List<TblCagrilar>
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        <i class="fa fa-bell-o"></i><span class="badge blue">@ViewBag.cgriCount</span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+            <div class="notification_header">
+                <h3>@ViewBag.cgriCount Yeni Çağrı Var</h3>
+            </div>
+        </li>
+        @foreach(var item in Model)
+        {
+            <li>
+                <a href="/Home/CagriDetay/@item.Id" class="grid">
+                    <div class="user_img"><img src="" alt=""></div>
+                    <div class="notification_desc">
+                        <p>@item.Konu</p>
+                        <span>@item.Tarih</span>
+                    </div>
+                </a>
+            </li>
+        }
+        <li>
+            <div class="notification_bottom">
+                <a href="/Home/PasifCagrilar/" class="bg-primary">Tüm Çağrıları Gör</a>
+            </div>
+        </li>
+    </ul>
+</li>

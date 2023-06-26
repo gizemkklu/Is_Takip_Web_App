@@ -1,0 +1,42 @@
+﻿@model List<TblCagrilar>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_FirmaLayout.cshtml";
+}
+
+<h1>Aktif Çağrılar</h1>
+
+@if (Model.Count > 0)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Konu</th>
+                <th>Tarih</th>
+                <th>Düzenle</th>
+                <th>Detaylar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Konu</td>
+                    <td>@item.Tarih</td>
+                    <td><a href="/Home/CagriGetir/@item.Id" class="btn btn-warning">Düzenle</a></td>
+                    <td><a href="/Home/CagriDetay/@item.Id" class="btn btn-primary">Detaylar</a></td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning" role="alert">
+        Mevcut çağrı bulunmamaktadır
+    </div>
+}
+<a href="/Home/YeniCagri/" class="btn btn-info">Yeni Çağrı Oluştur</a>

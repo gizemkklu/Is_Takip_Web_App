@@ -1,0 +1,53 @@
+﻿@model FirmaCagrilari.Models.TblFirmalar
+@{
+    ViewData["Title"] = "ProfilDuzenle";
+    Layout = "~/Views/Shared/_FirmaLayout.cshtml";
+}
+
+<h1>ProfilDuzenle</h1>
+
+@using (Html.BeginForm("ProfilDuzenle","Home",FormMethod.Post))
+{
+    @Html.HiddenFor(x=>x.Id);
+    
+    <br />
+    @Html.Label("Firma Adı")
+    @Html.TextBoxFor(x=>x.Name, new {@class= "form-control"})
+
+    <br />
+
+    @Html.Label("Yetkili")
+    @Html.TextBoxFor(x=>x.Competent, new {@class= "form-control"})
+
+    <br />
+
+    @Html.Label("Numara")
+    @Html.TextBoxFor(x=>x.Number, new {@class= "form-control"})
+
+    <br />
+
+    @Html.Label("Şifre")
+    @Html.TextBoxFor(x=>x.Sifre, new {@class= "form-control"})
+
+    <br />
+
+    @Html.Label("Sektör")
+    @Html.TextBoxFor(x=>x.Sector, new {@class= "form-control"})
+
+    <br />
+
+    @Html.Label("İl")
+    @Html.TextBoxFor(x=>x.Province, new {@class= "form-control"})
+
+    <br />
+
+    @Html.Label("İlçe")
+    @Html.TextBoxFor(x=>x.District, new {@class= "form-control"})
+
+    <br />
+
+    @Html.Label("Adres")
+    @Html.TextAreaFor(x=>x.Address,10,4, new {@class= "form-control"})
+    <br />
+    <button class="btn btn-primary">Değişiklikleri Kaydet</button>
+}

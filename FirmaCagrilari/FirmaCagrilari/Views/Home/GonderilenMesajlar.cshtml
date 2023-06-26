@@ -1,0 +1,30 @@
+﻿@using FirmaCagrilari.Models
+@model List<TblMesajlar>
+@{
+    ViewData["Title"] = "GonderilenMesajlar";
+    Layout = "~/Views/Shared/_FirmaLayout.cshtml";
+}
+
+<h1>Gönderilen Mesajlar</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Konu</th>
+            <th>Tarih</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Konu</td>
+                <td>@item.Tarih</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+<a href="/Home/YeniMesaj/" class="btn btn-info">Yeni Mesaj Oluştur</a>

@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirmaCagrilari
+build_property.RootNamespace = FirmaCagrilari
+build_property.ProjectDir = C:\Users\gizem\source\repos\FirmaCagrilari\FirmaCagrilari\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gizem\source\repos\FirmaCagrilari\FirmaCagrilari
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/Anasayfa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbmFzYXlmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/CagriDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWdyaURldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/CagriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWdyaUdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/GelenMesajlar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZWxlbk1lc2FqbGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/GonderilenMesajlar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHb25kZXJpbGVuTWVzYWpsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/Partial1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/PasifCagrilar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXNpZkNhZ3JpbGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/ProfilDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxEdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/YeniCagri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZZW5pQ2FncmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Home/YeniMesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZZW5pTWVzYWouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Shared/components/_Accordions/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGNvbXBvbmVudHNcX0FjY29yZGlvbnNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Shared/components/_GelenCagriList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGNvbXBvbmVudHNcX0dlbGVuQ2FncmlMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Shared/components/_MesajList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGNvbXBvbmVudHNcX01lc2FqTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Shared/_FirmaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaXJtYUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gizem/source/repos/FirmaCagrilari/FirmaCagrilari/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gpdhvn0vei

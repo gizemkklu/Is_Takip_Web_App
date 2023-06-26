@@ -1,0 +1,34 @@
+﻿@using FirmaCagrilari.Models
+@model List<TblMesajlar>
+
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+        <i class="fa fa-comment-o"></i><span class="badge blue">4</span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+            <div class="notification_header">
+                <h3>@ViewBag.msgCount Yeni Mesajınız Var</h3>
+            </div>
+        </li>
+
+            <li>
+                <a href="#" class="grid">
+                    <div class="user_img"><img src="~/web2/starter/assets/images/avatar1.jpg" alt=""></div>
+                    <div class="notification_desc">
+                        <p>item.Mesaj</p>
+                        <span>item.Gonderen</span>
+                    </div>
+                </a>
+            </li>
+ 
+
+
+
+        <li>
+            <div class="notification_bottom">
+                <a href="#all" class="bg-primary">See all messages</a>
+            </div>
+        </li>
+    </ul>
+</li>

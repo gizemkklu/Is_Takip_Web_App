@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace FirmaCagrilari.Models;
+
+public partial class TblCagriDetay
+{
+    public int Id { get; set; }
+
+    public int? Cagri { get; set; }
+
+    public string? Aciklama { get; set; }
+
+    public DateTime? Tarih { get; set; }
+
+    public string? Saat { get; set; }
+
+    public virtual TblCagrilar? CagriNavigation { get; set; }
+}

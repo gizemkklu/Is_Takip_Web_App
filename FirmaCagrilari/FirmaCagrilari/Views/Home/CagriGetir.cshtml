@@ -1,0 +1,22 @@
+﻿@using FirmaCagrilari.Models
+@model TblCagrilar
+@{
+    ViewData["Title"] = "CagriGetir";
+    Layout = "~/Views/Shared/_FirmaLayout.cshtml";
+}
+
+<h1>Çağrı Düzenleme Sayfası</h1>
+
+@using (Html.BeginForm("CagriDuzenle","Home",FormMethod.Post))
+{
+    @Html.HiddenFor(x=>x.Id);
+    <br />
+    @Html.Label("Konu")
+    @Html.TextBoxFor(x=>x.Konu, new {@class= "form-control"})
+    <br />
+    @Html.Label("Açıklama")
+    @Html.TextAreaFor(x=>x.Aciklama,10,4, new {@class= "form-control"})
+    <br />
+    <button class="btn btn-primary">Değişiklikleri Kaydet</button>
+
+}
